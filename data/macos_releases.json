@@ -6496,6 +6496,48 @@
     "Source": "SOFA"
   },
   {
+    "Build": "23J520",
+    "Version": "14.8.7",
+    "Product": "Sonoma",
+    "MajorVersion": "14",
+    "ReleaseDate": "2026-05-11",
+    "ReleaseMonth": "2026-05",
+    "Channel": "Production",
+    "IsBeta": false,
+    "IsRSR": false,
+    "IsSecurityUpdate": false,
+    "SecurityBulletinURL": null,
+    "Source": "SOFA"
+  },
+  {
+    "Build": "24G720",
+    "Version": "15.7.7",
+    "Product": "Sequoia",
+    "MajorVersion": "15",
+    "ReleaseDate": "2026-05-11",
+    "ReleaseMonth": "2026-05",
+    "Channel": "Production",
+    "IsBeta": false,
+    "IsRSR": false,
+    "IsSecurityUpdate": false,
+    "SecurityBulletinURL": null,
+    "Source": "SOFA"
+  },
+  {
+    "Build": "25F71",
+    "Version": "26.5",
+    "Product": "Tahoe",
+    "MajorVersion": "26",
+    "ReleaseDate": "2026-05-11",
+    "ReleaseMonth": "2026-05",
+    "Channel": "Production",
+    "IsBeta": false,
+    "IsRSR": false,
+    "IsSecurityUpdate": false,
+    "SecurityBulletinURL": null,
+    "Source": "SOFA"
+  },
+  {
     "Build": "9G71",
     "Version": "10.5.6",
     "Product": "Leopard",

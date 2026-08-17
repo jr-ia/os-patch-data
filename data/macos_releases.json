@@ -6664,6 +6664,20 @@
     "Source": "SOFA"
   },
   {
+    "Build": "25G83",
+    "Version": "26.6.2",
+    "Product": "Tahoe 26",
+    "MajorVersion": "26",
+    "ReleaseDate": "2026-08-17",
+    "ReleaseMonth": "2026-08",
+    "Channel": "Security",
+    "IsBeta": false,
+    "IsRSR": false,
+    "IsSecurityUpdate": true,
+    "SecurityBulletinURL": "https://support.apple.com/en-us/148281",
+    "Source": "SOFA"
+  },
+  {
     "Build": "9G71",
     "Version": "10.5.6",
     "Product": "Leopard",

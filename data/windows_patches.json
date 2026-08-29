@@ -54570,5 +54570,47 @@
     "KBArticle": "KB5120233",
     "ServicingOption": "",
     "ServicingChannel": ""
+  },
+  {
+    "Build": "26100.9278",
+    "MajorBuild": "26100",
+    "Version": "24H2",
+    "OSRole": "Client",
+    "Product": "Windows 11",
+    "ReleaseDate": "2026-08-27",
+    "ReleaseMonth": "2026-08",
+    "ReleaseTypeCode": "D",
+    "IsPreview": true,
+    "KBArticle": "KB5120998",
+    "ServicingOption": "LTSC â¢ General Availability Channel",
+    "ServicingChannel": "General Availability"
+  },
+  {
+    "Build": "26200.9278",
+    "MajorBuild": "26200",
+    "Version": "25H2",
+    "OSRole": "Client",
+    "Product": "Windows 11",
+    "ReleaseDate": "2026-08-27",
+    "ReleaseMonth": "2026-08",
+    "ReleaseTypeCode": "D",
+    "IsPreview": true,
+    "KBArticle": "KB5120998",
+    "ServicingOption": "General Availability Channel",
+    "ServicingChannel": "General Availability"
+  },
+  {
+    "Build": "28000.2804",
+    "MajorBuild": "28000",
+    "Version": "26H1",
+    "OSRole": "Client",
+    "Product": "Windows 11",
+    "ReleaseDate": "2026-08-27",
+    "ReleaseMonth": "2026-08",
+    "ReleaseTypeCode": "D",
+    "IsPreview": true,
+    "KBArticle": "KB5120996",
+    "ServicingOption": "General Availability Channel",
+    "ServicingChannel": "General Availability"
   }
 ]

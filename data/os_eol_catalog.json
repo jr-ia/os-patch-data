@@ -1244,5 +1244,19 @@
     "LatestKernel": "26.7",
     "LatestKernelReleaseDate": "2026-09-14",
     "Source": "endoflife.date"
+  },
+  {
+    "Platform": "macOS",
+    "Product": "macOS",
+    "Cycle": "27",
+    "ReleaseDate": "2026-09-14",
+    "EOLDate": null,
+    "IsEOL": false,
+    "Support": null,
+    "IsLTS": false,
+    "IsLatest": true,
+    "LatestKernel": "27",
+    "LatestKernelReleaseDate": "2026-09-14",
+    "Source": "endoflife.date"
   }
 ]

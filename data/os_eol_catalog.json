@@ -1255,7 +1255,7 @@
     "Support": null,
     "IsLTS": false,
     "IsLatest": true,
-    "LatestKernel": "27",
+    "LatestKernel": "27.0",
     "LatestKernelReleaseDate": "2026-09-14",
     "Source": "endoflife.date"
   }

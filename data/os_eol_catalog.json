@@ -611,7 +611,7 @@
     "Support": "2012-04-10",
     "IsLTS": false,
     "IsLatest": true,
-    "LatestKernel": "6.0.6200",
+    "LatestKernel": "6.0.6002",
     "LatestKernelReleaseDate": null,
     "Source": "endoflife.date"
   },

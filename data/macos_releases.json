@@ -6720,6 +6720,48 @@
     "Source": "SOFA"
   },
   {
+    "Build": "24H32",
+    "Version": "15.8.1",
+    "Product": "Sequoia 15",
+    "MajorVersion": "15",
+    "ReleaseDate": "2026-09-28",
+    "ReleaseMonth": "2026-09",
+    "Channel": "Security",
+    "IsBeta": false,
+    "IsRSR": false,
+    "IsSecurityUpdate": true,
+    "SecurityBulletinURL": "https://support.apple.com/en-us/149229",
+    "Source": "SOFA"
+  },
+  {
+    "Build": "25G241",
+    "Version": "26.7.1",
+    "Product": "Tahoe 26",
+    "MajorVersion": "26",
+    "ReleaseDate": "2026-09-28",
+    "ReleaseMonth": "2026-09",
+    "Channel": "Security",
+    "IsBeta": false,
+    "IsRSR": false,
+    "IsSecurityUpdate": true,
+    "SecurityBulletinURL": "https://support.apple.com/en-us/149228",
+    "Source": "SOFA"
+  },
+  {
+    "Build": "26A5434",
+    "Version": "27.0.1",
+    "Product": "Golden Gate 27",
+    "MajorVersion": "27",
+    "ReleaseDate": "2026-09-28",
+    "ReleaseMonth": "2026-09",
+    "Channel": "Security",
+    "IsBeta": false,
+    "IsRSR": false,
+    "IsSecurityUpdate": true,
+    "SecurityBulletinURL": "https://support.apple.com/en-us/100100",
+    "Source": "SOFA"
+  },
+  {
     "Build": "9G71",
     "Version": "10.5.6",
     "Product": "Leopard",

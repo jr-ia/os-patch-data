@@ -55004,5 +55004,19 @@
     "KBArticle": "KB5124006",
     "ServicingOption": "General Availability Channel",
     "ServicingChannel": "General Availability"
+  },
+  {
+    "Build": "26300.9550",
+    "MajorBuild": "26300",
+    "Version": "26H2",
+    "OSRole": "Client",
+    "Product": "Windows 11",
+    "ReleaseDate": "2026-09-29",
+    "ReleaseMonth": "2026-09",
+    "ReleaseTypeCode": "D",
+    "IsPreview": true,
+    "KBArticle": "KB5124010",
+    "ServicingOption": "General Availability Channel",
+    "ServicingChannel": "General Availability"
   }
 ]

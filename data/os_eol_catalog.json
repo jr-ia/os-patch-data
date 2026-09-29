@@ -1227,8 +1227,8 @@
     "Support": null,
     "IsLTS": false,
     "IsLatest": true,
-    "LatestKernel": "15.8",
-    "LatestKernelReleaseDate": "2026-09-14",
+    "LatestKernel": "15.8.1",
+    "LatestKernelReleaseDate": "2026-09-28",
     "Source": "endoflife.date"
   },
   {
@@ -1241,8 +1241,8 @@
     "Support": null,
     "IsLTS": false,
     "IsLatest": true,
-    "LatestKernel": "26.7",
-    "LatestKernelReleaseDate": "2026-09-14",
+    "LatestKernel": "26.7.1",
+    "LatestKernelReleaseDate": "2026-09-28",
     "Source": "endoflife.date"
   },
   {
@@ -1255,8 +1255,8 @@
     "Support": null,
     "IsLTS": false,
     "IsLatest": true,
-    "LatestKernel": "27.0",
-    "LatestKernelReleaseDate": "2026-09-14",
+    "LatestKernel": "27.0.1",
+    "LatestKernelReleaseDate": "2026-09-28",
     "Source": "endoflife.date"
   }
 ]

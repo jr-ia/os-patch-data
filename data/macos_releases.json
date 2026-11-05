@@ -6804,6 +6804,20 @@
     "Source": "SOFA"
   },
   {
+    "Build": "26B8125",
+    "Version": "27.2",
+    "Product": "Golden Gate 27",
+    "MajorVersion": "27",
+    "ReleaseDate": "2026-10-26",
+    "ReleaseMonth": "2026-10",
+    "Channel": "Security",
+    "IsBeta": false,
+    "IsRSR": false,
+    "IsSecurityUpdate": true,
+    "SecurityBulletinURL": "https://support.apple.com/en-us/149521",
+    "Source": "SOFA"
+  },
+  {
     "Build": "9G71",
     "Version": "10.5.6",
     "Product": "Leopard",

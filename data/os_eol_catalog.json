@@ -453,7 +453,7 @@
     "Cycle": "11-23h2-e",
     "ReleaseDate": "2023-10-31",
     "EOLDate": "2026-11-10",
-    "IsEOL": false,
+    "IsEOL": true,
     "Support": "2026-11-10",
     "IsLTS": false,
     "IsLatest": true,
@@ -1255,8 +1255,8 @@
     "Support": null,
     "IsLTS": false,
     "IsLatest": true,
-    "LatestKernel": "15.8.2",
-    "LatestKernelReleaseDate": "2026-10-26",
+    "LatestKernel": "15.8.3",
+    "LatestKernelReleaseDate": "2026-11-09",
     "Source": "endoflife.date"
   },
   {
@@ -1269,8 +1269,8 @@
     "Support": null,
     "IsLTS": false,
     "IsLatest": true,
-    "LatestKernel": "26.7.2",
-    "LatestKernelReleaseDate": "2026-10-26",
+    "LatestKernel": "26.7.3",
+    "LatestKernelReleaseDate": "2026-11-09",
     "Source": "endoflife.date"
   },
   {
@@ -1283,8 +1283,8 @@
     "Support": null,
     "IsLTS": false,
     "IsLatest": true,
-    "LatestKernel": "27.2",
-    "LatestKernelReleaseDate": "2026-10-26",
+    "LatestKernel": "27.2.1",
+    "LatestKernelReleaseDate": "2026-11-09",
     "Source": "endoflife.date"
   }
 ]
